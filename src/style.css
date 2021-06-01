@@ -1,0 +1,8 @@
+.section {
+  padding: 2rem 0;
+}
+.section-center {
+  width: 93vw;
+  margin: 0 auto;
+  max-width: var(--max-width);
+}
